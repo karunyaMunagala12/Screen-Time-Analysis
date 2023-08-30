@@ -1,0 +1,63 @@
+# Screen Time Analysis 
+
+## Overview
+
+The "Screen Time Analysis using Python" project focuses on analyzing screen time patterns by examining usage, notifications, and app-switching behaviors. By processing a dataset containing app details and screen time metrics, this project showcases the power of data analysis and visualization in understanding device usage habits.
+
+## Background
+
+Screen time analysis aims to provide insights into user behavior and app usage patterns. This project utilizes Python to analyze and visualize screen time data, shedding light on the relationship between app usage, notifications, and user interactions.
+
+## Dataset
+
+The dataset used in this project includes:
+- Date of usage
+- App usage details
+- Number of notifications
+- Number of times apps were opened
+
+## Project Structure
+
+- **Notebooks:** Jupyter notebooks containing the code for data analysis, visualization, and insights.
+- **Data:** Contains the screen time dataset used in the analysis.
+- **Images:** Stores images, plots, and visualizations generated during the analysis.
+- **README.md:** Project documentation and overview.
+
+## Data Preprocessing
+
+The dataset is imported using pandas, and basic data cleaning and inspection are performed to ensure data quality.
+
+## Screen Time Metrics
+
+- Usage: Visualizations are created to showcase the usage of different apps over time.
+- Notifications: Analysis is done on the number of notifications from various apps and their impact on usage.
+- Times Opened: Insights are derived from the frequency of app openings.
+
+## App Usage Analysis
+
+The project provides visual reports on app usage, indicating which apps are most frequently used.
+
+## App Switching Patterns
+
+Patterns of app switching are examined, giving an understanding of user behavior when transitioning between apps.
+
+## Results
+
+The project's analyses and visualizations provide insights into screen time behaviors, including app usage, notifications, and app switching patterns.
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Install the required libraries specified in the notebooks.
+3. Run the Jupyter notebooks to replicate the analysis and visualizations.
+
+## Technologies Used
+
+- Python
+- Jupyter Notebooks
+- Libraries: pandas, numpy, plotly
+
+## Acknowledgements
+
+- The dataset used in this project provides a practical context for screen time analysis.
+- Learning resources and discussions from the data science community contributed to the project's methodology.
